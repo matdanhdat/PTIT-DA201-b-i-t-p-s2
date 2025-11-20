@@ -1,0 +1,18 @@
+-- create database kiem_tra;
+-- use kiem_tra;
+-- create table ();
+-- insert into (tên bảng) (id,name,phone) values(dữ liệu cần chèn)
+-- UPDATE ten_bang
+-- SET ten_cot1 = gia_tri_moi1,
+    -- ten_cot2 = gia_tri_moi2,
+-- WHERE dieu_kien;
+-- DELETE FROM ten_bang
+-- WHERE dieu_kien;
+-- select(truy vấn cột ) côt from bảng where id 
+-- ứng dụng với toán tử (coust sum min max avg)
+-- đếm dữ liệu dùng coust (dùng được với ký tự )
+-- tính tống dùng sum (dùng với số )
+-- tìm giá trị lớn nhất dùng max (dùng được với ký tự )
+-- tìm giá trị nhỏ  nhất dùng min (dùng được với ký tự )
+-- tính trung bình dùng avg (dùng với số )
+-- as lệnh đặt cho các cột 
